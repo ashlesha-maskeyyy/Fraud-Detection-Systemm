@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+env/
+venv/
+.env/
+
+# Databases
+abc.db
+buddha_ai_vault.db
+
+# Large Datasets
+*.csv
+
+# OS specific
+.DS_Store
+Thumbs.db
