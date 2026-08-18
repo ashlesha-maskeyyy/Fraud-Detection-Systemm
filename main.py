@@ -7,7 +7,7 @@ from pydantic import BaseModel
 from datetime import datetime
 
 try:
-    model = joblib.load(r'C:\Users\Lenovo LOQ\nepal_fraud_rf_model.joblib')
+    model = joblib.load('saved_models/nepal_fraud_rf_model.joblib')
 except Exception as e:
     print(f"CRITICAL ERROR: Could not load model. Error: {e}")
 
