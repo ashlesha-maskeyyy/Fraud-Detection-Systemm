@@ -244,7 +244,7 @@ Even though the transaction is mathematically balanced, the high-value transacti
 
 The eSewa UI should display:
 
-**"TRANSACTION DENIED"**
+**"TRANSACTION BLOCKED"**
 
 ---
 
